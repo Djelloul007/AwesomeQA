@@ -24,6 +24,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Xamarin.UITest    https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/  
 -  Galen Framework   https://github.com/galenframework/galen  
 -  Zalenium          https://opensource.zalando.com/zalenium/
+-  White             https://teststackwhite.readthedocs.io  
 # Best Load Test Tools
 -  Gatling  https://gatling.io/  
 -  JMeter   https://jmeter.apache.org/ 
