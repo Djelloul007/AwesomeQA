@@ -13,3 +13,10 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  https://www.automatetheplanet.com/
 -  https://testing.googleblog.com/  
 
+
+# BEST UI Automation Testing Tools 
+-  Serenity BDD      https://serenity-bdd.github.io/theserenitybook/latest/index.html
+-  Selenium          https://www.seleniumhq.org/ 
+-  Appium            http://appium.io/ 
+-  RobotFramework    https://robotframework.org/  
+-  recheck (retest)  https://github.com/retest/recheck
