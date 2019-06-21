@@ -36,4 +36,5 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - BDD-Security             https://github.com/continuumsecurity/bdd-security
 - OWASP Dependency Check   https://www.owasp.org/index.php/OWASP_Dependency_Check
 - OWASP Dependency Track   https://www.owasp.org/index.php/OWASP_Dependency_Track_Project
-- OWASP Testing Guide      https://www.owasp.org/index.php/OWASP_Testing_Project
+- OWASP Testing Guide      https://www.owasp.org/index.php/OWASP_Testing_Project  
+- Clair                    https://github.com/coreos/clair  
