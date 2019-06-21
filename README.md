@@ -61,3 +61,4 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  https://www.youtube.com/user/thenewboston
 -  https://www.w3schools.com/  
 -  https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials
+-  https://testautomationu.applitools.com/  
