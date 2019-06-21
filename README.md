@@ -20,3 +20,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Appium            http://appium.io/ 
 -  RobotFramework    https://robotframework.org/  
 -  recheck (retest)  https://github.com/retest/recheck
+
+# Best Load Test Tools
+-  Gatling  https://gatling.io/  
+-  JMeter   https://jmeter.apache.org/  
