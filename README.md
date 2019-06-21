@@ -22,7 +22,8 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  RobotFramework    https://robotframework.org/  
 -  recheck (retest)  https://github.com/retest/recheck
 -  Xamarin.UITest    https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/  
--  Galen Framework   https://github.com/galenframework/galen
+-  Galen Framework   https://github.com/galenframework/galen  
+-  Zalenium          https://opensource.zalando.com/zalenium/
 # Best Load Test Tools
 -  Gatling  https://gatling.io/  
 -  JMeter   https://jmeter.apache.org/ 
