@@ -79,3 +79,4 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  https://www.w3schools.com/  
 -  https://www.aquasec.com/wiki/display/containers/70+Best+Kubernetes+Tutorials
 -  https://testautomationu.applitools.com/  
+-  https://martinfowler.com/articles/practical-test-pyramid.html
