@@ -45,4 +45,5 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - Sonar                    https://www.sonarqube.org/
 
 # Best Online Learning Platforms
--  https://www.tutorialspoint.com
+-  https://www.tutorialspoint.com  
+-  https://learntocodewith.me/where-to-learn/
