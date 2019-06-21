@@ -45,7 +45,8 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - Clair                    https://github.com/coreos/clair  
 - Needle                   https://github.com/mwrlabs/needle  
 - Frida                    https://www.frida.re/  
-- Tamper                   https://github.com/google/tamperchrome
+- Tamper                   https://github.com/google/tamperchrome  
+- Snyk                     https://github.com/snyk/snyk
 
 # Best Static Code Analysis Tools
 - Sonar                    https://www.sonarqube.org/  
