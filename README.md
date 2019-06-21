@@ -17,6 +17,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 # BEST UI Automation Testing Tools 
 -  Serenity BDD      https://serenity-bdd.github.io/theserenitybook/latest/index.html
 -  Selenium          https://www.seleniumhq.org/ 
+-  Cypress           https://www.cypress.io/ 
 -  Appium            http://appium.io/ 
 -  RobotFramework    https://robotframework.org/  
 -  recheck (retest)  https://github.com/retest/recheck
