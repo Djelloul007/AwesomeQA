@@ -43,3 +43,6 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 # Best Static Code Analysis Tools
 - Sonar                    https://www.sonarqube.org/
+
+# Best Online Learning Platforms
+-  https://www.tutorialspoint.com
