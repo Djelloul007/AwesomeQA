@@ -27,6 +27,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 # Best Load Test Tools
 -  Gatling  https://gatling.io/  
 -  JMeter   https://jmeter.apache.org/ 
+-  Element  https://element.flood.io/  
 
 # Best Rest API Test Tools
 -  Rest Assured      http://rest-assured.io/
