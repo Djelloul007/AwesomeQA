@@ -57,6 +57,10 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 # Best Projects on Github
 - https://github.com/Netflix
+- https://github.com/microsoft
+- https://github.com/facebook
+- https://github.com/ethereum/go-ethereum
+- https://github.com/tensorflow/tensorflow
 - https://github.com/freeCodeCamp/freeCodeCamp  
 - https://github.com/EbookFoundation/free-programming-books
 - https://github.com/sindresorhus/awesome
