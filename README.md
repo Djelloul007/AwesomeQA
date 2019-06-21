@@ -28,3 +28,4 @@ A collection of awesome software, libraries, documents, books, resources and coo
 
 # Best Rest API Test Tools
 -  Rest Assured      http://rest-assured.io/
+-  karate            https://github.com/intuit/karate  
