@@ -29,6 +29,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 # Best Rest API Test Tools
 -  Rest Assured      http://rest-assured.io/
 -  karate            https://github.com/intuit/karate  
+-  Pact              https://docs.pact.io/   
 
 # Best Security Test Tools
 -  OWASP Zed Attack Proxy  https://www.owasp.org/index.php/OWASP_Zed_Attack_Proxy_Project  
