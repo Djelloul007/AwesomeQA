@@ -49,4 +49,4 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  https://learntocodewith.me/where-to-learn/  
 -  https://www.freecodecamp.org/  
 -  https://www.youtube.com/user/programmingwithmosh  
-
+-  https://www.youtube.com/user/thenewboston
