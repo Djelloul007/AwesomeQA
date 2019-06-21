@@ -55,6 +55,11 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - Kubernetes                https://kubernetes.io
 - Docker                    https://hub.docker.com/
 
+# Best Projects on Github
+- https://github.com/freeCodeCamp/freeCodeCamp  
+- https://github.com/EbookFoundation/free-programming-books
+- https://github.com/sindresorhus/awesome
+
 # Best Online Learning Platforms
 -  https://www.tutorialspoint.com  
 -  https://learntocodewith.me/where-to-learn/  
