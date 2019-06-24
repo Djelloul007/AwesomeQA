@@ -31,6 +31,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Element  https://element.flood.io/  
 
 # Best Rest API Test Tools
+-  Serenity BDD      https://github.com/serenity-bdd/serenity-rest-starter
 -  Rest Assured      http://rest-assured.io/
 -  karate            https://github.com/intuit/karate  
 -  Pact              https://docs.pact.io/   
