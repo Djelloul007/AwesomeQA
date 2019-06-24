@@ -25,6 +25,14 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Galen Framework   https://github.com/galenframework/galen  
 -  Zalenium          https://opensource.zalando.com/zalenium/
 -  White             https://teststackwhite.readthedocs.io  
+
+# BEST UI Automation Testing Tools 
+-  Appium            https://appium.io/
+-  Espresso          https://developer.android.com/training/testing/ui-testing/espresso-testing.html
+-  Calabash          https://github.com/calabash
+-  Xamarin:UITest    https://docs.microsoft.com/en-us/appcenter/test-cloud/preparing-for-upload/uitest
+-  XCTest            https://developer.apple.com/library/archive/documentation/DeveloperTools/Conceptual/testing_with_xcode/chapters/09-ui_testing.html
+
 # Best Load Test Tools
 -  Gatling  https://gatling.io/  
 -  JMeter   https://jmeter.apache.org/ 
