@@ -12,6 +12,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  http://www.executeautomation.com/  
 -  https://www.automatetheplanet.com/
 -  https://testing.googleblog.com/  
+-  http://thinktesting.com/  
 
 
 # BEST UI Automation Testing Tools 
