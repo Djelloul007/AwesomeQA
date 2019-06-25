@@ -58,6 +58,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - Frida                    https://www.frida.re/  
 - Tamper                   https://github.com/google/tamperchrome  
 - Snyk                     https://github.com/snyk/snyk
+- https://portswigger.net/
 
 # Best API Security Test Tools
 - https://www.guru99.com/testing-rest-api-manually.html
