@@ -59,6 +59,12 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - Tamper                   https://github.com/google/tamperchrome  
 - Snyk                     https://github.com/snyk/snyk
 - https://portswigger.net/
+- https://cirt.net/Nikto2
+- http://w3af.org/
+- https://www.arachni-scanner.com/
+- https://subgraph.com/vega/
+- https://tools.kali.org/web-applications/skipfish
+- https://www.acunetix.com/
 
 # Best API Security Test Tools
 - https://www.guru99.com/testing-rest-api-manually.html
