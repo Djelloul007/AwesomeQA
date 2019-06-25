@@ -70,6 +70,15 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - http://blog.isecurion.com/2017/10/10/penetration-testing-restful-web-services/
 - https://hydrasky.com/network-security/restful-web-services-penetation-testing/
 - https://tech.flipkart.com/astra-automated-security-testing-for-rest-apis-a54b999dbfe9
+- http://blog.securelayer7.net/api-penetration-testing-with-owasp-2017-test-cases/
+- https://www.qasymphony.com/blog/automated-api-testing-tutorial/
+- https://smartbear.com/blog/test-and-monitor/api-security-testing-how-to-hack-an-api-and-ge-(2)/
+- https://www.troyhunt.com/hack-your-api-first-learn-how-to/
+- https://medium.com/bugbountywriteup/exploiting-apis-with-postman-and-google-chrome-ade13ce74e2b
+- https://assertible.com/blog/api-security-testing-tips-to-prevent-getting-pwned
+- https://github.com/flipkart-incubator/Astra
+- https://github.com/Fuzzapi/fuzzapi
+- https://www.mindpointgroup.com/blog/pen-test/rest-assured-penetration-testing-rest-apis-using-burp-suite-part-1-introduction-configuration/
 
 # Best Static Code Analysis Tools
 - Sonar                    https://www.sonarqube.org/  
