@@ -59,6 +59,18 @@ A collection of awesome software, libraries, documents, books, resources and coo
 - Tamper                   https://github.com/google/tamperchrome  
 - Snyk                     https://github.com/snyk/snyk
 
+# Best API Security Test Tools
+- https://www.guru99.com/testing-rest-api-manually.html
+- https://mathieu.fenniak.net/the-api-checklist/
+- https://github.com/shieldfy/API-Security-Checklist
+- https://www.kennethlange.com/rest-api-checklist/
+- https://www.phase2technology.com/blog/your-comprehensive-web-api-design-checklist
+- https://github.com/OWASP/CheatSheetSeries/blob/master/cheatsheets/REST_Security_Cheat_Sheet.md
+- https://www.testbytes.net/blog/api-security-testing-rules-and-checklist/
+- http://blog.isecurion.com/2017/10/10/penetration-testing-restful-web-services/
+- https://hydrasky.com/network-security/restful-web-services-penetation-testing/
+- https://tech.flipkart.com/astra-automated-security-testing-for-rest-apis-a54b999dbfe9
+
 # Best Static Code Analysis Tools
 - Sonar                    https://www.sonarqube.org/  
 
