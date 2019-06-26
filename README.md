@@ -19,13 +19,12 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Serenity BDD      https://serenity-bdd.github.io/theserenitybook/latest/index.html
 -  Selenium          https://www.seleniumhq.org/ 
 -  Cypress           https://www.cypress.io/ 
--  Appium            http://appium.io/ 
 -  RobotFramework    https://robotframework.org/  
--  recheck (retest)  https://github.com/retest/recheck
--  Xamarin.UITest    https://docs.microsoft.com/en-us/appcenter/test-cloud/uitest/  
+-  recheck (retest)  https://github.com/retest/recheck 
 -  Galen Framework   https://github.com/galenframework/galen  
 -  Zalenium          https://opensource.zalando.com/zalenium/
 -  White             https://teststackwhite.readthedocs.io  
+-  Sikulix           http://sikulix.com/
 
 # BEST Mobile UI Automation Testing Tools 
 -  Appium            https://appium.io/
