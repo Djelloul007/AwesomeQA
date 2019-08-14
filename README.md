@@ -25,6 +25,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Zalenium          https://opensource.zalando.com/zalenium/
 -  White             https://teststackwhite.readthedocs.io  
 -  Sikulix           http://sikulix.com/
+-  citrus            https://citrusframework.org/
 
 # BEST Mobile UI Automation Testing Tools 
 -  Appium            https://appium.io/
