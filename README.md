@@ -13,6 +13,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  https://www.automatetheplanet.com/
 -  https://testing.googleblog.com/  
 -  http://thinktesting.com/  
+-  https://saucelabs.com/blog/
 
 
 # BEST WebApp UI Automation Testing Tools 
