@@ -21,7 +21,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Selenium          https://www.seleniumhq.org/ 
 -  Cypress           https://www.cypress.io/ 
 -  RobotFramework    https://robotframework.org/  
--  recheck (retest)  https://github.com/retest/recheck 
+-  recheck-web       https://github.com/retest/recheck-web 
 -  Galen Framework   https://github.com/galenframework/galen  
 -  Zalenium          https://opensource.zalando.com/zalenium/
 -  White             https://teststackwhite.readthedocs.io  
