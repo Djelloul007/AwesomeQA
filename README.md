@@ -20,6 +20,7 @@ A collection of awesome software, libraries, documents, books, resources and coo
 -  Serenity BDD      https://serenity-bdd.github.io/theserenitybook/latest/index.html
 -  Selenium          https://www.seleniumhq.org/ 
 -  Cypress           https://www.cypress.io/ 
+-  Playwright        https://playwright.dev/
 -  RobotFramework    https://robotframework.org/  
 -  recheck-web       https://github.com/retest/recheck-web 
 -  Galen Framework   https://github.com/galenframework/galen  
